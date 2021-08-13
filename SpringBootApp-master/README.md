@@ -48,3 +48,6 @@
 ## Acknowledgements
 - This project was inspired by our learnings from the internship.
 - This project was based on [this dataset](https://https://github.com/tesseract-ocr/tessdata).
+
+## Project website
+https://smartid-project.herokuapp.com/
